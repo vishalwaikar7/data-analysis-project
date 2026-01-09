@@ -1,26 +1,14 @@
-# Bank Analytics Project
+# Data Analysis Projects
 
-## Tools Used
-- SQL
-- Power BI
-- Tableau
-- Excel
+This repository contains my data analysis projects created using
+SQL, Power BI, Tableau, and Excel.
 
-## Objective
-To analyze banking data and generate insights related to customers,
-transactions, and performance.
+## Projects
 
-## Files Included
-- Bank_Analytics_SQL.sql – SQL queries
-- BankAnalytics_Powerbi.pbix – Power BI dashboard
-- BankAnalytics_Tableau.twbx – Tableau dashboard
-- BankAnalyticsDashboard.csv – Dataset
-- BankAnalyticsFinalPPT.pdf – Final presentation
+### 1. Bank Analytics Project
+- Tools: SQL, Power BI, Tableau, Excel
+- Objective: Analyze banking data to generate insights on customers,
+  transactions, and performance.
 
-## Key Insights
-- Year wise loan amount
-- Grade and Sub grade wise revolving balance
-- Total verified vs not verified customers
-- State vs last credit pull date wise loan amount
-- Home Ownership vs Last payment date stat
+(More projects will be added soon)
 
